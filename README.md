@@ -4,6 +4,9 @@
 
 # 🎰 CasinoEconomyBotEN
 A powerful Discord economy bot featuring casino games, PvP duels, Mystery Box, loans, banking, VIP system, shop, inventory, and much more.
+---
+
+Currency - €
 
 ---
 
