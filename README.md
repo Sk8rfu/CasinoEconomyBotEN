@@ -171,7 +171,7 @@ Currency - €
 ### 1️⃣ Clone the project
 ```bash
 git clone https://github.com/Sk8rfu/CasinoEconomyBotEN.git
-cd CasinoEconomyBot
+cd CasinoEconomyBotEN
 ```
 
 ### 2️⃣ Install dependencies
