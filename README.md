@@ -2,6 +2,15 @@
   <img src="https://github.com/Sk8rfu/CasinoEconomyBotEN/blob/assets/banner.png?raw=true?raw=true">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-100%25-yellow">
+  <img src="https://img.shields.io/badge/Node.js-18+-green">
+  <img src="https://img.shields.io/badge/discord.js-v14-blue">
+  <img src="https://img.shields.io/badge/SQLite-Database-lightgrey">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</p>
+
 # 🎰 CasinoEconomyBotEN
 A powerful Discord economy bot featuring casino games, PvP duels, Mystery Box, loans, banking, VIP system, shop, inventory, and much more.
 ---
